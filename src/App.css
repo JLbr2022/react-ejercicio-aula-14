@@ -3,3 +3,10 @@
   font-size: 38px;
   font-weight: bold;
 }
+
+.centered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

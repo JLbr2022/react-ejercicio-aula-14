@@ -4,7 +4,7 @@ import Challenge from "./Components/Challenge/Challenge";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App centered">
       <Challenge userName="José" content="Challenge accepted," />
     </div>
   );
