@@ -16,13 +16,3 @@ class Challenge extends React.Component {
 }
 
 export default Challenge;
-
-// function Challenge(props) {..
-//   return (
-//     <div>
-//       <h1>
-//         {props.content} {props.userName}
-//       </h1>
-//     </div>
-//   );
-// }
